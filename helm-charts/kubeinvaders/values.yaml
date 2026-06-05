@@ -36,7 +36,7 @@ clusterRole:
 deployment:
   replicaCount: 1
   image:
-    repository: luckysideburn/kubeinvaders
+    repository: alex-j-davison/kubeinvaders
     tag: v1.9.7
     pullPolicy: Always
   extraEnv: []
