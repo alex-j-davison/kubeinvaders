@@ -36,7 +36,7 @@ clusterRole:
 deployment:
   replicaCount: 1
   image:
-    repository: fumbles/kubeinvaders
+    repository: alexdav45058/kubeinvaders
     tag: v1.9.7
     pullPolicy: Always
   extraEnv: []
